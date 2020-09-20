@@ -12,10 +12,10 @@
       "street": "🤔",
       "city": "Mexico City",
       "state": "CDMX",
-      "zip": "ABC 123"
+      "zip": "13090"
     },
     "website": "https://adanpalacios.netlify.app",
-    "resumedownload": "https://www.linkedin.com/in/adanpalacios/",
+    "resumedownload": "https://drive.google.com/file/d/1IOLTIAxWazXLLziRd2FIazTF3bYJ8o7z/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -66,6 +66,12 @@
         "title": "Full Stack Engineer",
         "years": "August 2019 - Present",
         "description": "Development and engineering of financial solutions"
+      },
+      {
+        "company": "Freelance",
+        "title": "React Dev",
+        "years": "Present",
+        "description": "I develop products for companies using mainly Mern Stack"
       },
       {
         "company": "Bquate",
@@ -124,28 +130,16 @@
         "url": "https://adanpalacios.netlify.app"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "React Redux Onboarding Platform",
+        "category": "Project for an enterprise made with React & Redux",
+        "image": "pyro.png",
+        "url": "https://stage-pyro-onboarding.netlify.app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "amazon.png",
+        "url": "https://amazonshop-clone.netlify.app/"
       }
     ]
   },
